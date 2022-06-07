@@ -4,11 +4,8 @@ export function App() {
   return (
     <>
       <h1>hello world</h1>
-      <Post />
-      <Post />
-      <Post />
-      <Post />
-      <Post />
+      <Post author="Darrow" content="Hello React world!" />
+      <Post author="Jucelino" content="Olá" />
     </>
   )
 }
