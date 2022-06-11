@@ -8,6 +8,8 @@ The unreal social media feed about the Rocketseat's Ignite program.
 
 <p align="center">
   <a href="README.md">English</a>
+  ·
+  <a href="README-pt.md">Portuguese</a>
 </p>
 
 <br>
