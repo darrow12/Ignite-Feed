@@ -24,5 +24,5 @@ The unreal social media feed about the Rocketseat's Ignite program.
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/darrow12/Ignite-Feed?label=Last commit&color=00B37E&labelColor=000000">
   </a>
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/darrow12/gatito-petshop?label=Repository size&color=00B37E&labelColor=000000">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/darrow12/Ignite-Feed?label=Repository size&color=00B37E&labelColor=000000">
 </p>
